@@ -1,4 +1,4 @@
-- 👋 Hi, I’m .......
+- 👋 Hi, I’m Kartik Gosai
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning Cross Platform Application Development
 - 📫 You Can Reach me, in My Chat App - TalkG (Download From - talkg.rf
